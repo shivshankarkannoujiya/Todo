@@ -9,4 +9,4 @@ export declare const signupInput: z.ZodObject<{
     username: string;
     password: string;
 }>;
-export type SignupParams = z.infer<typeof signupInput>;
+export type signupparams = z.infer<typeof signupInput>;

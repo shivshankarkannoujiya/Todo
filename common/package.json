@@ -1,7 +1,6 @@
 {
-  "name": "@100xdevs/common",
-  "version": "1.0.2",
-  "description": "",
+  "name": "@shiv143/common",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
+  "description": "",
   "dependencies": {
-    "zod": "^3.21.4"
+    "zod": "^3.24.1"
   }
 }
